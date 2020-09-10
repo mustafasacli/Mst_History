@@ -1,0 +1,5 @@
+D:\Projects\CSharpLibraryProjects\Mst.Ado\Mst.Ado\bin\Debug\Mst.Ado.dll
+D:\Projects\CSharpLibraryProjects\Mst.Ado\Mst.Ado\bin\Debug\Mst.Ado.pdb
+D:\Projects\CSharpLibraryProjects\Mst.Ado\Mst.Ado\bin\Debug\Interop.ADOX.dll
+D:\Projects\CSharpLibraryProjects\Mst.Ado\Mst.Ado\obj\Debug\Mst.Ado.dll
+D:\Projects\CSharpLibraryProjects\Mst.Ado\Mst.Ado\obj\Debug\Mst.Ado.pdb

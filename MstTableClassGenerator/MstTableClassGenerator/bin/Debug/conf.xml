@@ -1,0 +1,43 @@
+<app>
+  <app-conn-settings>
+    <connectiontypes>
+      <connectiontype>
+        <name>SqlExpress</name>
+        <connectionstring>Server=KRK\SQLEXPRESS; Database=GuruTest; Trusted_Connection=True;</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>SqlServer</name>
+        <connectionstring>Server=KRK\SQLEXPRESS; Initial Catalog=GuruTest; Persist Security Info=True; User Id=sa; Password=123123;</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>EnterpriseDB</name>
+        <connectionstring>Server=localhost;Database=template_postgis_20;USER ID=postgres;PASSWORD=374phjg2346rgy84j67uwye387;</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>DB2</name>
+        <connectionstring>Connection string Of DB2 Connection Type</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>Oracle</name>
+        <connectionstring>Connection string Of Oracle Connection Type</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>MySQL</name>
+        <connectionstring>Server=localhost; Port=3306; Database=Buro; Uid=root; Pwd=123123</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>OleDb</name>
+        <connectionstring>Connection string Of OleDb Connection Type</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>SQL-Lite</name>
+        <connectionstring>Connection string Of SQL-Lite Connection Type</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>FireBird</name>
+        <connectionstring>Connection string Of FireBird Connection Type</connectionstring>
+      </connectiontype>
+    </connectiontypes>
+  </app-conn-settings>
+  <app-lang>tr-TR</app-lang>
+</app>

@@ -1,0 +1,5 @@
+D:\Projects\CSharpLibraryProjects\Mst\Mst.Ado\bin\Debug\Mst.Ado.dll
+D:\Projects\CSharpLibraryProjects\Mst\Mst.Ado\bin\Debug\Mst.Ado.pdb
+D:\Projects\CSharpLibraryProjects\Mst\Mst.Ado\obj\Debug\Mst.Ado.csprojResolveAssemblyReference.cache
+D:\Projects\CSharpLibraryProjects\Mst\Mst.Ado\obj\Debug\Mst.Ado.dll
+D:\Projects\CSharpLibraryProjects\Mst\Mst.Ado\obj\Debug\Mst.Ado.pdb

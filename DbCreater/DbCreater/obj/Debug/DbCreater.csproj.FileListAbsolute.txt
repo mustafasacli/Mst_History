@@ -1,0 +1,9 @@
+D:\Projects2\DbCreater\DbCreater\bin\Debug\DbCreater.exe
+D:\Projects2\DbCreater\DbCreater\bin\Debug\DbCreater.pdb
+D:\Projects2\DbCreater\DbCreater\obj\Debug\DbCreater.csprojResolveAssemblyReference.cache
+D:\Projects2\DbCreater\DbCreater\obj\Debug\DbCreater.Properties.Resources.resources
+D:\Projects2\DbCreater\DbCreater\obj\Debug\DbCreater.csproj.GenerateResource.Cache
+D:\Projects2\DbCreater\DbCreater\obj\Debug\DbCreater.exe
+D:\Projects2\DbCreater\DbCreater\obj\Debug\DbCreater.pdb
+E:\Projects\Mst_History\DbCreater\DbCreater\obj\Debug\DbCreater.exe
+E:\Projects\Mst_History\DbCreater\DbCreater\obj\Debug\DbCreater.pdb

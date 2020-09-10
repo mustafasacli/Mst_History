@@ -1,0 +1,5 @@
+D:\Projects\CSharpLibraryProjects\Mst\Mst.DbTypes\bin\Debug\Mst.DbTypes.dll
+D:\Projects\CSharpLibraryProjects\Mst\Mst.DbTypes\bin\Debug\Mst.DbTypes.pdb
+D:\Projects\CSharpLibraryProjects\Mst\Mst.DbTypes\obj\Debug\Mst.DbTypes.dll
+D:\Projects\CSharpLibraryProjects\Mst\Mst.DbTypes\obj\Debug\Mst.DbTypes.pdb
+D:\Projects\CSharpLibraryProjects\Mst\Mst.DbTypes\obj\Debug\Mst.DbTypes.csprojResolveAssemblyReference.cache

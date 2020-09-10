@@ -1,0 +1,4 @@
+D:\Projects\CSharpLibraryProjects\Mst.Utilities\Mst.Utilities\bin\Debug\Mst.Utilities.dll
+D:\Projects\CSharpLibraryProjects\Mst.Utilities\Mst.Utilities\bin\Debug\Mst.Utilities.pdb
+D:\Projects\CSharpLibraryProjects\Mst.Utilities\Mst.Utilities\obj\Debug\Mst.Utilities.dll
+D:\Projects\CSharpLibraryProjects\Mst.Utilities\Mst.Utilities\obj\Debug\Mst.Utilities.pdb

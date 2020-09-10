@@ -1,0 +1,4 @@
+D:\Projects\CSharpLibraryProjects\Mst.Math\Mst.Math\bin\Debug\Mst.Math.dll
+D:\Projects\CSharpLibraryProjects\Mst.Math\Mst.Math\bin\Debug\Mst.Math.pdb
+D:\Projects\CSharpLibraryProjects\Mst.Math\Mst.Math\obj\Debug\Mst.Math.dll
+D:\Projects\CSharpLibraryProjects\Mst.Math\Mst.Math\obj\Debug\Mst.Math.pdb

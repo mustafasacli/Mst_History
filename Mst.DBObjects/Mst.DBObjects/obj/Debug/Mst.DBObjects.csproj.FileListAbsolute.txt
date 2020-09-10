@@ -1,0 +1,4 @@
+D:\Projects\CSharpLibraryProjects\Mst.DBObjects\Mst.DBObjects\bin\Debug\Mst.DBObjects.dll
+D:\Projects\CSharpLibraryProjects\Mst.DBObjects\Mst.DBObjects\bin\Debug\Mst.DBObjects.pdb
+D:\Projects\CSharpLibraryProjects\Mst.DBObjects\Mst.DBObjects\obj\Debug\Mst.DBObjects.dll
+D:\Projects\CSharpLibraryProjects\Mst.DBObjects\Mst.DBObjects\obj\Debug\Mst.DBObjects.pdb

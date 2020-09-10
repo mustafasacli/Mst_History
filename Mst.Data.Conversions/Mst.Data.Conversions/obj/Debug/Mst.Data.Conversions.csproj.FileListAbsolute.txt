@@ -1,0 +1,4 @@
+D:\Projects\CSharpLibraryProjects\Mst.Data.Conversions\Mst.Data.Conversions\bin\Debug\Mst.Data.Conversions.dll
+D:\Projects\CSharpLibraryProjects\Mst.Data.Conversions\Mst.Data.Conversions\bin\Debug\Mst.Data.Conversions.pdb
+D:\Projects\CSharpLibraryProjects\Mst.Data.Conversions\Mst.Data.Conversions\obj\Debug\Mst.Data.Conversions.dll
+D:\Projects\CSharpLibraryProjects\Mst.Data.Conversions\Mst.Data.Conversions\obj\Debug\Mst.Data.Conversions.pdb

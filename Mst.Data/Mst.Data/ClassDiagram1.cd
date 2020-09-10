@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Mst.Data.DBConnection.Connection" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQACAAICAiACUABAAEAVAIAQAIAAABACAAAAAAqAA=</HashCode>
+      <FileName>DBConnection\Connection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Mst.Data.Management.DB2Manager" Collapsed="true">
+    <Position X="14.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Management\DB2Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mst.Data.Management.DbManager" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgYREEAAAAAAAAAAAQAEAEAoAAEAAAAAACAAAAAAAUA=</HashCode>
+      <FileName>Management\DbManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Mst.Data.Management.EnterpriseDBManager" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Management\EnterpriseDBManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mst.Data.Management.FireBirdManager" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Management\FireBirdManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mst.Data.Management.MsSQLManager" Collapsed="true">
+    <Position X="16.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Management\MsSQLManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mst.Data.Management.MySQLManager" Collapsed="true">
+    <Position X="18.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Management\MySQLManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mst.Data.Management.OleDbManager" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Management\OleDbManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mst.Data.Management.OracleManager" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Management\OracleManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mst.Data.Management.SQLiteManager" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Management\SQLiteManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mst.Data.QueryBuilding.QueryBuilder" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAgAAkCAAEAAIAAAAxAAAKAAMgAAAAgAAACAA=</HashCode>
+      <FileName>QueryBuilding\QueryBuilder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.242" Collapsed="true" />
+  </Class>
+  <Interface Name="Mst.Data.DBConnection.IConnection" Collapsed="true">
+    <Position X="20.75" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAIAAAACUAAAAEAVAIAQAIAAABACAAAAAAoAA=</HashCode>
+      <FileName>DBConnection\IConnection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Mst.Data.Management.IDbManager" Collapsed="true">
+    <Position X="18.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQREEAAAAAAAAAAAQAEAEAoAAEAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Management\IDbManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Mst.Data.QueryBuilding.IBaseBO" Collapsed="true">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAAAAAAAAAAAAAAAAAAAAAAAAAAAACABAAAAAAAAA=</HashCode>
+      <FileName>QueryBuilding\IBaseBO.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Mst.Data.QueryBuilding.IBaseDL" Collapsed="true">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QueryBuilding\IBaseDL.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Mst.Data.QueryBuilding.IBaseOperations" Collapsed="true">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAEAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QueryBuilding\IBaseOperations.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Mst.Data.QueryBuilding.IQueryBuilder" Collapsed="true">
+    <Position X="23.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QueryBuilding\IQueryBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Mst.Data.DBConnection.ConnectionTypes" Collapsed="true">
+    <Position X="27.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAAAIAAAAkAAAEAIABuAACAEAAAAEAAAAAABAACBA=</HashCode>
+      <FileName>DBConnection\ConnectionTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Mst.Data.QueryBuilding.QueryTypes" Collapsed="true">
+    <Position X="25.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAEAAAAAAAAAAAAAAgAAAAAEAAAAAAAAAYQAAAAA=</HashCode>
+      <FileName>QueryBuilding\QueryTypes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

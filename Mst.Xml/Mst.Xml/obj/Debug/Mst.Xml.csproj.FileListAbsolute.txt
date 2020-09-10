@@ -1,0 +1,5 @@
+D:\Projects\CSharpLibraryProjects\Mst.Xml\Mst.Xml\bin\Debug\Mst.Xml.dll
+D:\Projects\CSharpLibraryProjects\Mst.Xml\Mst.Xml\bin\Debug\Mst.Xml.pdb
+D:\Projects\CSharpLibraryProjects\Mst.Xml\Mst.Xml\obj\Debug\Mst.Xml.csprojResolveAssemblyReference.cache
+D:\Projects\CSharpLibraryProjects\Mst.Xml\Mst.Xml\obj\Debug\Mst.Xml.dll
+D:\Projects\CSharpLibraryProjects\Mst.Xml\Mst.Xml\obj\Debug\Mst.Xml.pdb

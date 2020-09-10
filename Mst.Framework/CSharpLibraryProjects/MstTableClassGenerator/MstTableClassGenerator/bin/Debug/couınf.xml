@@ -1,0 +1,42 @@
+<app>
+  <app-conn-settings>
+    <connectiontypes>
+      <connectiontype>
+        <name>SqlExpress</name>
+        <connectionstring>Server=EW\\SQLEXPRESS; Database=myDB; Integrated Security=SSPI;</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>SqlServer</name>
+        <connectionstring>Server=EW\\SQLEXPRESS; Database=myDB; Integrated Security=SSPI;</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>EnterpriseDB</name>
+        <connectionstring>Server=EW\\SQLEXPRESS; Database=myDB; Integrated Security=SSPI;</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>DB2</name>
+        <connectionstring>Server=EW\\SQLEXPRESS; Database=myDB; Integrated Security=SSPI;</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>Oracle</name>
+        <connectionstring>Server=EW\\SQLEXPRESS; Database=myDB; Integrated Security=SSPI;</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>MySQL</name>
+        <connectionstring>Server=EW\\SQLEXPRESS; Database=myDB; Integrated Security=SSPI;</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>OleDb</name>
+        <connectionstring>Server=EW\\SQLEXPRESS; Database=myDB; Integrated Security=SSPI;</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>SQL-Lite</name>
+        <connectionstring>Server=EW\\SQLEXPRESS; Database=myDB; Integrated Security=SSPI;</connectionstring>
+      </connectiontype>
+      <connectiontype>
+        <name>FireBird</name>
+        <connectionstring>Server=EW\\SQLEXPRESS; Database=myDB; Integrated Security=SSPI;</connectionstring>
+      </connectiontype>
+    </connectiontypes>
+  </app-conn-settings>
+</app>

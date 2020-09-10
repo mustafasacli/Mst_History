@@ -1,0 +1,5 @@
+D:\Projects2\DbCreater\DbCreater.Database\bin\Debug\DbCreater.Database.dll
+D:\Projects2\DbCreater\DbCreater.Database\bin\Debug\DbCreater.Database.pdb
+D:\Projects2\DbCreater\DbCreater.Database\obj\Debug\DbCreater.Database.csprojResolveAssemblyReference.cache
+D:\Projects2\DbCreater\DbCreater.Database\obj\Debug\DbCreater.Database.dll
+D:\Projects2\DbCreater\DbCreater.Database\obj\Debug\DbCreater.Database.pdb

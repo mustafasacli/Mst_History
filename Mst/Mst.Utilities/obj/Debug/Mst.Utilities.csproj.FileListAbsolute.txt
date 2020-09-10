@@ -1,0 +1,5 @@
+D:\Projects\CSharpLibraryProjects\Mst\Mst.Utilities\bin\Debug\Mst.Utilities.dll
+D:\Projects\CSharpLibraryProjects\Mst\Mst.Utilities\bin\Debug\Mst.Utilities.pdb
+D:\Projects\CSharpLibraryProjects\Mst\Mst.Utilities\obj\Debug\Mst.Utilities.csprojResolveAssemblyReference.cache
+D:\Projects\CSharpLibraryProjects\Mst\Mst.Utilities\obj\Debug\Mst.Utilities.dll
+D:\Projects\CSharpLibraryProjects\Mst\Mst.Utilities\obj\Debug\Mst.Utilities.pdb

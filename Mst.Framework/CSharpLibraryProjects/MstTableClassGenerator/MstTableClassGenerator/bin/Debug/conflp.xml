@@ -1,0 +1,53 @@
+<app>
+  <app-conn-settings>
+    <connectiontypes>
+      
+      <connectiontype>
+        <name>SqlExpress</name>
+        <connectionstring>my sql express connection string</connectionstring>
+      </connectiontype>
+      
+      <connectiontype>
+        <name>SqlServer</name>
+        <connectionstring>my sql server connection string</connectionstring>
+      </connectiontype>
+      
+       <connectiontype>
+        <name>EnterpriseDB</name>
+        <connectionstring>my enterprise db connection string</connectionstring>
+      </connectiontype>
+      
+      <connectiontype>
+        <name>DB2</name>
+        <connectionstring>my db2 connection string</connectionstring>
+      </connectiontype>
+      
+      <connectiontype>
+        <name>Oracle</name>
+        <connectionstring>my oracle connection string</connectionstring>
+      </connectiontype>
+      
+      <connectiontype>
+        <name>MySQL</name>
+        <connectionstring>my MySql connection string</connectionstring>
+      </connectiontype>
+      
+      <connectiontype>
+        <name>OleDb</name>
+        <connectionstring>my Oledb connection string</connectionstring>
+      </connectiontype>
+      
+      <connectiontype>
+        <name>SQL-Lite</name>
+        <connectionstring>my sql-lite connection string</connectionstring>
+      </connectiontype>
+      
+      <connectiontype>
+        <name>FireBird</name>
+        <connectionstring>my firebird sql connection string</connectionstring>
+      </connectiontype>
+    
+    </connectiontypes>
+  </app-conn-settings>
+  <app-lang>tr</app-lang>
+</app>

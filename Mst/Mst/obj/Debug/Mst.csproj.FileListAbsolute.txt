@@ -1,0 +1,2 @@
+D:\Projects\CSharpLibraryProjects\Mst\Mst\bin\Debug\Mst.exe.config
+D:\Projects\CSharpLibraryProjects\Mst\Mst\obj\Debug\Mst.csprojResolveAssemblyReference.cache

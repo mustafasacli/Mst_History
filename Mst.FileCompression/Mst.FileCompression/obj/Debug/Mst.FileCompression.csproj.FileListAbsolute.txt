@@ -1,0 +1,4 @@
+E:\Projects\CSharpLibraryProjects\Mst.FileCompression\Mst.FileCompression\bin\Debug\Mst.FileCompression.dll
+E:\Projects\CSharpLibraryProjects\Mst.FileCompression\Mst.FileCompression\bin\Debug\Mst.FileCompression.pdb
+E:\Projects\CSharpLibraryProjects\Mst.FileCompression\Mst.FileCompression\obj\Debug\Mst.FileCompression.dll
+E:\Projects\CSharpLibraryProjects\Mst.FileCompression\Mst.FileCompression\obj\Debug\Mst.FileCompression.pdb
